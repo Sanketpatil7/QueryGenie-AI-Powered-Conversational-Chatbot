@@ -221,7 +221,7 @@ This reduces the final image size significantly by excluding build tools from th
 ## 👨‍💻 Author
 
 **Sanket** — Full Stack Developer  
-📧 imsanketpatil03@gmail.com 
+📧 issanketpatil1712@gmail.com 
 🔗 [LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/yourusername)
 
 ---
